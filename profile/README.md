@@ -12,10 +12,9 @@
 
 ## 🎯 Resources
 
-- [![Discover Guides](https://img.shields.io/badge/Discover_Guides-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/WarzoneAimbot-EsP/.github)
-- [![Join Community](https://img.shields.io/badge/Join_Community-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/WarzoneAimbot-EsP/WarzoneAimbot-Performance)
-
----
+<a href="https://github.com/WarzoneAimbot-EsP/WarzoneAimbot-Performance" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 🔍 Keywords
 
